@@ -7,7 +7,7 @@ import { notFound } from 'next/navigation';
 import ProdutoAwin from '../../../components/produtoAwin';
 
 export async function generateStaticParams() {
-  if (process.env.BUILD_TARGET !== 'lego') {
+  if (process.env.BUILD_TARGET !== 'nike') {
     return [{ slug: '__dummy__' }]; // slug fake para evitar erro no build
   }
 
@@ -28,7 +28,7 @@ export async function generateStaticParams() {
     try {
       const obj = JSON.parse(linha);
       if (obj.slug) {
-        const produto = await lerProdutoPorSlug(obj.slug, 'LEGO', lote);
+        const produto = await lerProdutoPorSlug(obj.slug, 'NIKE', lote);
         if (produto) {
           validSlugs.push({ slug: obj.slug });
         } else {
@@ -45,7 +45,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }) {
   const lote = process.env.LOTE || null;
-  const produto = await lerProdutoPorSlug(params.slug, 'LEGO', lote);
+  const produto = await lerProdutoPorSlug(params.slug, 'NIKE', lote);
   if (!produto) return {};
 
   return {
@@ -56,7 +56,7 @@ export async function generateMetadata({ params }) {
 
 export default async function ProdutoPage({ params }) {
   const lote = process.env.LOTE || null;
-  const produto = await lerProdutoPorSlug(params.slug, 'LEGO', lote);
+  const produto = await lerProdutoPorSlug(params.slug, 'NIKE', lote);
 
   if (!produto) {
     console.warn(`⚠️ Produto não encontrado no render para slug: ${params.slug}`);

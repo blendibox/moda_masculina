@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 
 let dominios = []
 
-dominios.push('modakids.blendibox.com.br'); 
+dominios.push('modamasculina.blendibox.com.br'); 
 
 
 const nextConfig = {

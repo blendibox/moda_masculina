@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl:  'https://modakids.blendibox.com.br',
+  siteUrl:  'https://modamasculina.blendibox.com.br',
   generateRobotsTxt: false,
   sitemapSize: 5000,
   outDir: './out',

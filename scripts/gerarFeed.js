@@ -112,7 +112,7 @@ function gerarXML(produtos) {
   const items = produtos.map((post) => `
     <item>
       <title><![CDATA[${post.title || post._p.title }]]></title>
-      <link><![CDATA[https://modakids.blendibox.com.br/${post._p.brand}/${post.slug || post._p.slug}]]></link>
+      <link><![CDATA[https://modamasculina.blendibox.com.br/${post._p.brand}/${post.slug || post._p.slug}]]></link>
       <description><![CDATA[${post.title || post._p.title}]]></description>
       <g:image_link>${escapeXML(post.image || post._p.imagem || "Fashion")}</g:image_link>
 	  <g:google_product_category>${escapeXML(post.categoria ||  post._p && post._p.categoria || 'Bolsas e Malas')}</g:google_product_category>
