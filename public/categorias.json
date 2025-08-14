@@ -1,0 +1,410 @@
+{
+  "cama": {
+    "slug": "cama",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "top manga longa": {
+    "slug": "top-manga-longa",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "pijama": {
+    "slug": "pijama",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "top manga curta": {
+    "slug": "top-manga-curta",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "tênis performance": {
+    "slug": "tenis-performance",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "camisa": {
+    "slug": "camisa",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "chinelo": {
+    "slug": "chinelo",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "tênis": {
+    "slug": "tenis",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "sandália": {
+    "slug": "sandalia",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "bota": {
+    "slug": "bota",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "cabelos": {
+    "slug": "cabelos",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "outros": {
+    "slug": "outros",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "calça": {
+    "slug": "calca",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "conjunto curto": {
+    "slug": "conjunto-curto",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "shorts/saia": {
+    "slug": "shortssaia",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "over top": {
+    "slug": "over-top",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "beachwear": {
+    "slug": "beachwear",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "mochila": {
+    "slug": "mochila",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "boné": {
+    "slug": "bone",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "conjunto longo": {
+    "slug": "conjunto-longo",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "moletom": {
+    "slug": "moletom",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "corpo e banho": {
+    "slug": "corpo-e-banho",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "tratamento": {
+    "slug": "tratamento",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "mala/mochila/necessaire": {
+    "slug": "malamochilanecessaire",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "meia": {
+    "slug": "meia",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "top regata": {
+    "slug": "top-regata",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "jaqueta": {
+    "slug": "jaqueta",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "bolsa": {
+    "slug": "bolsa",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "relógio": {
+    "slug": "relogio",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "mesa": {
+    "slug": "mesa",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "utilidades domésticas": {
+    "slug": "utilidades-domesticas",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "carteira": {
+    "slug": "carteira",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "chapéu/gorro": {
+    "slug": "chapeugorro",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "vestido": {
+    "slug": "vestido",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "shorts/bermuda": {
+    "slug": "shortsbermuda",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "jardineira": {
+    "slug": "jardineira",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "perfume": {
+    "slug": "perfume",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "macacão": {
+    "slug": "macacao",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "body": {
+    "slug": "body",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "mocassim/oxford": {
+    "slug": "mocassimoxford",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "rasteira": {
+    "slug": "rasteira",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "sapatilha": {
+    "slug": "sapatilha",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "banho": {
+    "slug": "banho",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "camiseta polo": {
+    "slug": "camiseta-polo",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "cueca": {
+    "slug": "cueca",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "óculos": {
+    "slug": "oculos",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "sapato": {
+    "slug": "sapato",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "calça moletom": {
+    "slug": "calca-moletom",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "sapato social": {
+    "slug": "sapato-social",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "scarpin": {
+    "slug": "scarpin",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "top curto": {
+    "slug": "top-curto",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "underwear": {
+    "slug": "underwear",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "shorts/bermuda boardshorts": {
+    "slug": "shortsbermuda-boardshorts",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "escolar": {
+    "slug": "escolar",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "sapato casual": {
+    "slug": "sapato-casual",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "calcinha": {
+    "slug": "calcinha",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "maternidade/modeladora": {
+    "slug": "maternidademodeladora",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "boné/chapéu/gorro": {
+    "slug": "bonechapeugorro",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "saia": {
+    "slug": "saia",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "cinto": {
+    "slug": "cinto",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "sunga": {
+    "slug": "sunga",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "macaquinho/jardineira": {
+    "slug": "macaquinhojardineira",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "shorts": {
+    "slug": "shorts",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "cachecol/lenço/luva": {
+    "slug": "cachecollencoluva",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "maternidade": {
+    "slug": "maternidade",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "conjunto lingerie": {
+    "slug": "conjunto-lingerie",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "sutiã": {
+    "slug": "sutia",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  },
+  "maiô": {
+    "slug": "maio",
+    "arquivos": [
+      "DAFITI.json"
+    ]
+  }
+}
