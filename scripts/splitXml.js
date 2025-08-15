@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 
 const inputFile = process.argv[2];
-const maxSize = 90 * 1024 * 1024; // 90 MB
+const maxSize = 50 * 1024 * 1024; // 90 MB
 
 if (!inputFile) {
   console.error('❌ Uso: node scripts/splitXmlProd.js caminho/arquivo.xml');
