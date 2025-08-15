@@ -1,410 +1,863 @@
 {
-  "cama": {
-    "slug": "cama",
+  "calça": {
+    "slug": "calca",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
   "top manga longa": {
     "slug": "top-manga-longa",
     "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "pijama": {
-    "slug": "pijama",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "top manga curta": {
-    "slug": "top-manga-curta",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "tênis performance": {
-    "slug": "tenis-performance",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "camisa": {
-    "slug": "camisa",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "chinelo": {
-    "slug": "chinelo",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "tênis": {
-    "slug": "tenis",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "sandália": {
-    "slug": "sandalia",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "bota": {
-    "slug": "bota",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "cabelos": {
-    "slug": "cabelos",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "outros": {
-    "slug": "outros",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "calça": {
-    "slug": "calca",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "conjunto curto": {
-    "slug": "conjunto-curto",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "shorts/saia": {
-    "slug": "shortssaia",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "over top": {
-    "slug": "over-top",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "beachwear": {
-    "slug": "beachwear",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "mochila": {
-    "slug": "mochila",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "boné": {
-    "slug": "bone",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "conjunto longo": {
-    "slug": "conjunto-longo",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "moletom": {
-    "slug": "moletom",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "corpo e banho": {
-    "slug": "corpo-e-banho",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "tratamento": {
-    "slug": "tratamento",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "mala/mochila/necessaire": {
-    "slug": "malamochilanecessaire",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "meia": {
-    "slug": "meia",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "top regata": {
-    "slug": "top-regata",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "jaqueta": {
-    "slug": "jaqueta",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "bolsa": {
-    "slug": "bolsa",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "relógio": {
-    "slug": "relogio",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "mesa": {
-    "slug": "mesa",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "utilidades domésticas": {
-    "slug": "utilidades-domesticas",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "carteira": {
-    "slug": "carteira",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "chapéu/gorro": {
-    "slug": "chapeugorro",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "vestido": {
-    "slug": "vestido",
-    "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
   "shorts/bermuda": {
     "slug": "shortsbermuda",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
-  "jardineira": {
-    "slug": "jardineira",
+  "camisa": {
+    "slug": "camisa",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
-  "perfume": {
-    "slug": "perfume",
+  "pijama": {
+    "slug": "pijama",
     "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "macacão": {
-    "slug": "macacao",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "body": {
-    "slug": "body",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "mocassim/oxford": {
-    "slug": "mocassimoxford",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "rasteira": {
-    "slug": "rasteira",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "sapatilha": {
-    "slug": "sapatilha",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "banho": {
-    "slug": "banho",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "camiseta polo": {
-    "slug": "camiseta-polo",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "cueca": {
-    "slug": "cueca",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "óculos": {
-    "slug": "oculos",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "sapato": {
-    "slug": "sapato",
-    "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json"
     ]
   },
   "calça moletom": {
     "slug": "calca-moletom",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json"
     ]
   },
-  "sapato social": {
-    "slug": "sapato-social",
+  "chinelo": {
+    "slug": "chinelo",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
-  "scarpin": {
-    "slug": "scarpin",
+  "top manga curta": {
+    "slug": "top-manga-curta",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
-  "top curto": {
-    "slug": "top-curto",
+  "sandália": {
+    "slug": "sandalia",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
-  "underwear": {
-    "slug": "underwear",
+  "tênis": {
+    "slug": "tenis",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
-  "shorts/bermuda boardshorts": {
-    "slug": "shortsbermuda-boardshorts",
+  "tênis performance": {
+    "slug": "tenis-performance",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
-  "escolar": {
-    "slug": "escolar",
+  "bota": {
+    "slug": "bota",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
-  "sapato casual": {
-    "slug": "sapato-casual",
+  "boné": {
+    "slug": "bone",
     "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "calcinha": {
-    "slug": "calcinha",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "maternidade/modeladora": {
-    "slug": "maternidademodeladora",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "boné/chapéu/gorro": {
-    "slug": "bonechapeugorro",
-    "arquivos": [
-      "DAFITI.json"
-    ]
-  },
-  "saia": {
-    "slug": "saia",
-    "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
   "cinto": {
     "slug": "cinto",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json"
+    ]
+  },
+  "carteira": {
+    "slug": "carteira",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json"
+    ]
+  },
+  "moletom": {
+    "slug": "moletom",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "camiseta polo": {
+    "slug": "camiseta-polo",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "jaqueta": {
+    "slug": "jaqueta",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "cardiga/sueter": {
+    "slug": "cardigasueter",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "shorts/bermuda boardshorts": {
+    "slug": "shortsbermuda-boardshorts",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json"
+    ]
+  },
+  "perfume": {
+    "slug": "perfume",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "mala/mochila/necessaire": {
+    "slug": "malamochilanecessaire",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json"
+    ]
+  },
+  "top regata": {
+    "slug": "top-regata",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "outros": {
+    "slug": "outros",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "over top": {
+    "slug": "over-top",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "sapato casual": {
+    "slug": "sapato-casual",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "sapato social": {
+    "slug": "sapato-social",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "cueca": {
+    "slug": "cueca",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "óculos": {
+    "slug": "oculos",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "mochila": {
+    "slug": "mochila",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
+    ]
+  },
+  "bolsa/mala/necessaire": {
+    "slug": "bolsamalanecessaire",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI4.json"
+    ]
+  },
+  "meia": {
+    "slug": "meia",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json",
+      "DAFITI5.json"
     ]
   },
   "sunga": {
     "slug": "sunga",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json"
     ]
   },
-  "macaquinho/jardineira": {
-    "slug": "macaquinhojardineira",
+  "banho": {
+    "slug": "banho",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json"
     ]
   },
-  "shorts": {
-    "slug": "shorts",
+  "corpo e banho": {
+    "slug": "corpo-e-banho",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json"
+    ]
+  },
+  "relógio": {
+    "slug": "relogio",
+    "arquivos": [
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json"
     ]
   },
   "cachecol/lenço/luva": {
     "slug": "cachecollencoluva",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI1.json",
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json"
     ]
   },
-  "maternidade": {
-    "slug": "maternidade",
+  "chapéu/gorro": {
+    "slug": "chapeugorro",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI2.json",
+      "DAFITI3.json",
+      "DAFITI4.json"
     ]
   },
-  "conjunto lingerie": {
-    "slug": "conjunto-lingerie",
+  "cama": {
+    "slug": "cama",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI2.json"
     ]
   },
-  "sutiã": {
-    "slug": "sutia",
+  "boné/chapéu/gorro": {
+    "slug": "bonechapeugorro",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI2.json"
     ]
   },
-  "maiô": {
-    "slug": "maio",
+  "escolar": {
+    "slug": "escolar",
     "arquivos": [
-      "DAFITI.json"
+      "DAFITI3.json"
     ]
+  },
+  "bolsa": {
+    "slug": "bolsa",
+    "arquivos": [
+      "DAFITI3.json",
+      "DAFITI4.json"
+    ]
+  },
+  "Infantil": {
+    "slug": "infantil",
+    "arquivos": [
+      "NIKE.json"
+    ],
+    "subcategorias": {
+      "Calçados": {
+        "slug": "infantil/calcados",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Tênis": {
+            "slug": "infantil/calcados/tenis",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Chinelos & Sandálias": {
+            "slug": "infantil/calcados/chinelos-e-sandalias",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Chuteiras": {
+            "slug": "infantil/calcados/chuteiras",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Snkrs": {
+            "slug": "infantil/calcados/snkrs",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      },
+      "Roupas": {
+        "slug": "infantil/roupas",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Camisetas": {
+            "slug": "infantil/roupas/camisetas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Shorts": {
+            "slug": "infantil/roupas/shorts",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Jaquetas & Moletons": {
+            "slug": "infantil/roupas/jaquetas-e-moletons",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Tops": {
+            "slug": "infantil/roupas/tops",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Calças & Leggings": {
+            "slug": "infantil/roupas/calcas-e-leggings",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Maiôs & Biquinis": {
+            "slug": "infantil/roupas/maios-e-biquinis",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Sungas": {
+            "slug": "infantil/roupas/sungas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Saias & Vestidos & Macacões": {
+            "slug": "infantil/roupas/saias-e-vestidos-e-macacoes",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "SCCP": {
+            "slug": "infantil/roupas/sccp",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      },
+      "Acessórios": {
+        "slug": "infantil/acessorios",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Bolsas & Mochilas": {
+            "slug": "infantil/acessorios/bolsas-e-mochilas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Outros": {
+            "slug": "infantil/acessorios/outros",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Caneleiras": {
+            "slug": "infantil/acessorios/caneleiras",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Bonés & Viseiras": {
+            "slug": "infantil/acessorios/bones-e-viseiras",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Luvas": {
+            "slug": "infantil/acessorios/luvas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Meias": {
+            "slug": "infantil/acessorios/meias",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "Masculino": {
+    "slug": "masculino",
+    "arquivos": [
+      "NIKE.json"
+    ],
+    "subcategorias": {
+      "Calçados": {
+        "slug": "masculino/calcados",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Tênis": {
+            "slug": "masculino/calcados/tenis",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Chuteiras": {
+            "slug": "masculino/calcados/chuteiras",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Snkrs": {
+            "slug": "masculino/calcados/snkrs",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Chinelos & Sandálias": {
+            "slug": "masculino/calcados/chinelos-e-sandalias",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      },
+      "Roupas": {
+        "slug": "masculino/roupas",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Camisetas": {
+            "slug": "masculino/roupas/camisetas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Shorts": {
+            "slug": "masculino/roupas/shorts",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Jaquetas & Moletons": {
+            "slug": "masculino/roupas/jaquetas-e-moletons",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Calças & Leggings": {
+            "slug": "masculino/roupas/calcas-e-leggings",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "SCCP": {
+            "slug": "masculino/roupas/sccp",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      },
+      "Acessórios": {
+        "slug": "masculino/acessorios",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Bolsas & Mochilas": {
+            "slug": "masculino/acessorios/bolsas-e-mochilas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Meias": {
+            "slug": "masculino/acessorios/meias",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "Feminino": {
+    "slug": "feminino",
+    "arquivos": [
+      "NIKE.json"
+    ],
+    "subcategorias": {
+      "Roupas": {
+        "slug": "feminino/roupas",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Shorts": {
+            "slug": "feminino/roupas/shorts",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Calças & Leggings": {
+            "slug": "feminino/roupas/calcas-e-leggings",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Tops": {
+            "slug": "feminino/roupas/tops",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Camisetas": {
+            "slug": "feminino/roupas/camisetas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Jaquetas & Moletons": {
+            "slug": "feminino/roupas/jaquetas-e-moletons",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Maiôs & Biquinis": {
+            "slug": "feminino/roupas/maios-e-biquinis",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Saias & Vestidos & Macacões": {
+            "slug": "feminino/roupas/saias-e-vestidos-e-macacoes",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "SCCP": {
+            "slug": "feminino/roupas/sccp",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      },
+      "Calçados": {
+        "slug": "feminino/calcados",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Tênis": {
+            "slug": "feminino/calcados/tenis",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Snkrs": {
+            "slug": "feminino/calcados/snkrs",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Chinelos & Sandálias": {
+            "slug": "feminino/calcados/chinelos-e-sandalias",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Chuteiras": {
+            "slug": "feminino/calcados/chuteiras",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      },
+      "Acessórios": {
+        "slug": "feminino/acessorios",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Bolsas & Mochilas": {
+            "slug": "feminino/acessorios/bolsas-e-mochilas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Meias": {
+            "slug": "feminino/acessorios/meias",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "Unissex": {
+    "slug": "unissex",
+    "arquivos": [
+      "NIKE.json"
+    ],
+    "subcategorias": {
+      "Acessórios": {
+        "slug": "unissex/acessorios",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Bolsas & Mochilas": {
+            "slug": "unissex/acessorios/bolsas-e-mochilas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Bonés & Viseiras": {
+            "slug": "unissex/acessorios/bones-e-viseiras",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Bolas": {
+            "slug": "unissex/acessorios/bolas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Caneleiras": {
+            "slug": "unissex/acessorios/caneleiras",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Outros": {
+            "slug": "unissex/acessorios/outros",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "SCCP": {
+            "slug": "unissex/acessorios/sccp",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Meias": {
+            "slug": "unissex/acessorios/meias",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Luvas": {
+            "slug": "unissex/acessorios/luvas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      },
+      "Roupas": {
+        "slug": "unissex/roupas",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Camisetas": {
+            "slug": "unissex/roupas/camisetas",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Jaquetas & Moletons": {
+            "slug": "unissex/roupas/jaquetas-e-moletons",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Shorts": {
+            "slug": "unissex/roupas/shorts",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Meias": {
+            "slug": "unissex/roupas/meias",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      },
+      "Calçados": {
+        "slug": "unissex/calcados",
+        "arquivos": [
+          "NIKE.json"
+        ],
+        "subcategorias": {
+          "Tênis": {
+            "slug": "unissex/calcados/tenis",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          },
+          "Snkrs": {
+            "slug": "unissex/calcados/snkrs",
+            "arquivos": [
+              "NIKE.json"
+            ]
+          }
+        }
+      }
+    }
   }
 }

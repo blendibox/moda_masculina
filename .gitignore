@@ -16,6 +16,7 @@
 # next.js
 /.next/
 /out/
+/out-*-lote-*/
 
 # production
 /build
@@ -39,3 +40,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/data/awin/*.jsonl
+/data/awin/*.json
+/data/slugs
+/data/slugs-lotes
+data/DAFITI.xml
+/data/slugs-lotes
+/public/data
+public/categorias.json
+public/slug-index.json
+
