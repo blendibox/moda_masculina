@@ -26,11 +26,13 @@ export default function ProdutoAwin(props) {
 "price":{"$":{"curr":"BRL"},
 "buynow":"219.99","store":"0.00"},
 "text":{"name":"Kit 6 Pçs Edredom Casa Dona Dupla Face Casal Queen com Lençol Bege","desc":""},
-"uri":{"awTrack":"https://www.awin1.com/pclick.php?p=40671926619&a=2104315&m=17697",
-"alternateImageTwo":"https://static.dafiti.com.br/p/-5569875-3-zoom.jpg",
-"awImage":"https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Astatic.dafiti.com.br%2Fp%2F-5569875-1-zoom.jpg&feedId=53091&k=71128f9af06c19cb548f564495f0caa5ec34d9cc",
-"mImage":"https://static.dafiti.com.br/p/-5569875-1-zoom.jpg",
-"mLink":"https://www.dafiti.com.br/Kit-6-Pcs-Edredom-Casa-Dona-Dupla-Face-Casal-Queen-com-Lencol-Bege-5789655.html"},
+"uri":{
+	"awTrack":"https://www.awin1.com/pclick.php?p=40671926619&a=2104315&m=17697",
+	"alternateImageTwo":"https://static.dafiti.com.br/p/-5569875-3-zoom.jpg",
+	"awImage":"https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Astatic.dafiti.com.br%2Fp%2F-5569875-1-zoom.jpg&feedId=53091&k=71128f9af06c19cb548f564495f0caa5ec34d9cc",
+	"mImage":"https://static.dafiti.com.br/p/-5569875-1-zoom.jpg",
+	"mLink":"https://www.dafiti.com.br/Kit-6-Pcs-Edredom-Casa-Dona-Dupla-Face-Casal-Queen-com-Lencol-Bege-5789655.html"
+ },
 "vertical":{"$":{"id":"2","name":"Fashion"}},
 "pId":"10630HDU44KPB-1"},
 */
@@ -40,10 +42,10 @@ export default function ProdutoAwin(props) {
 		 <SchemaProduto
 		 suppressHydrationWarning
 		   title={produto['text']?.['name']}
-		   image={produto['alternateImageTwo'] || produto['awImage'] || produto['mImage']  } 
+		   image={produto['uri']?.['alternateImageTwo'] || produto['uri']?.['awImage'] || produto['uri']?.['mImage']  } 
 		   link ={linkUrl || '#'}
 		   brand={produto['brand']?.['brandName'] || mybrand} 
-		   priceGoogle= {produto['Price']}
+		   priceGoogle= {produto['price']?.['buynow']}
 		   />
 	
       <main id="content" role="main" className="justify-center">
