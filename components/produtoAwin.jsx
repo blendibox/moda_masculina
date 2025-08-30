@@ -42,7 +42,7 @@ export default function ProdutoAwin(props) {
 		 <SchemaProduto
 		 suppressHydrationWarning
 		   title={produto['text']?.['name']}
-		    image={produto['uri']?.['mImage'] || produto['uri']?.['alternateImageTwo'] || produto['uri']?.['awImage']   } 
+		    image={produto['uri']?.['mImage'] || produto['uri']?.['alternateImageTwo'].replace('https:https:','https:') || produto['uri']?.['awImage']   } 
 		   link ={linkUrl || '#'}
 		   brand={produto['brand']?.['brandName'] || mybrand} 
 		   priceGoogle= {produto['price']?.['buynow']}
@@ -87,14 +87,14 @@ export default function ProdutoAwin(props) {
 			title={produto['Title']}
 		  >     
 		 <Image
-			src={produto['uri']?.['alternateImageTwo'] || produto['uri']?.['awImage'] || produto['uri']?.['mImage']}
+			src={produto['uri']?.['alternateImageTwo'].replace('https:https:','https:') || produto['uri']?.['awImage'] || produto['uri']?.['mImage']}
 			alt={produto['text']?.['name']}
 			width={250}
 			height={250}
 			className="rounded "
 		  />
 	     </Link>
-      <p className="mt-2 text-green-700 font-bold">Preço: {produto['price']?.['buynow']}*</p>
+      <p className="mt-2 text-green-700 font-bold">Preço: {produto['price']?.['buynow']} ({produto['price']['$']?.['curr']})*</p>
       <Link
         href={produto['uri']?.['awTrack']}
         className="inline-block mt-4 bg-emerald-600 text-white px-4 py-2 rounded text-xl"
