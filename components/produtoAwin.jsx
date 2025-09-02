@@ -42,7 +42,7 @@ export default function ProdutoAwin(props) {
 		 <SchemaProduto
 		 suppressHydrationWarning
 		   title={produto['text']?.['name']}
-		    image={produto['uri']?.['mImage'] || produto['uri']?.['alternateImageTwo'].replace('https:https:','https:') || produto['uri']?.['awImage']   } 
+		    image={produto['uri']?.['mImage'] || produto['uri']?.['alternateImageTwo'] || produto['uri']?.['awImage']   } 
 		   link ={linkUrl || '#'}
 		   brand={produto['brand']?.['brandName'] || mybrand} 
 		   priceGoogle= {produto['price']?.['buynow']}
@@ -87,7 +87,7 @@ export default function ProdutoAwin(props) {
 			title={produto['Title']}
 		  >     
 		 <Image
-			src={produto['uri']?.['alternateImageTwo'].replace('https:https:','https:') || produto['uri']?.['awImage'] || produto['uri']?.['mImage']}
+			src={produto['uri']?.['alternateImageTwo'] || produto['uri']?.['awImage'] || produto['uri']?.['mImage']}
 			alt={produto['text']?.['name']}
 			width={250}
 			height={250}
