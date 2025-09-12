@@ -148,7 +148,7 @@ export default function ResultadosFiltrados() {
 					marca: isGalvic ? p['g:brand'] : nomeMarca,
 					origem: nomeMarca,
 					categoria: categoriaTexto,
-					linklocal:`https://comprar.blendibox.com.br/${nomeMarca}/${p.slug}?${nomeMarca}`,
+					linklocal:`https://modamasculina.blendibox.com.br/${nomeMarca}/${p.slug}?${nomeMarca}`,
 					descricao: `Procurando onde comprar ${isGalvic ? p['g:title'] : p?.text?.name || ''}? Acesse, Compare Ofertas, encontre Cupons para ${isGalvic ? p['g:title'] : p?.text?.name || ''} de forma dinâmica. Milhares de Ofertas e Cupons de desconto de grandes Marcas.`
 				  };
 
@@ -297,12 +297,18 @@ console.log('🔍 caminhoCategoria encontrada:', caminhoCategoria);
 				<p className="text-sm text-gray-600">
 				  R$ {p._padronizado?.preco?.toFixed(2)}
 				</p>
+				 <Link alt="ir para loja {p._padronizado?.marca}"
+					  href={p._padronizado?.linklocal}
+					  className="ml-2 p-2 text-white bg-emerald-700 rounded text-sm mt-2 inline-block hover:bg-emerald-500"
+					>
+				  Ver Produto
+				</Link>
 
 				<Link alt="ir para loja {p._padronizado?.marca}"
 					  href={p._padronizado?.link}
 					  className="ml-2 p-2 text-white bg-emerald-700 rounded text-sm mt-2 inline-block hover:bg-emerald-500"
 					>
-				  Ver Produto
+				  Comprar
 				</Link>
 			  </div>
 			))}
