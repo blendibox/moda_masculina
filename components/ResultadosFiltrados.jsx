@@ -148,7 +148,7 @@ export default function ResultadosFiltrados() {
 					marca: isGalvic ? p['g:brand'] : nomeMarca,
 					origem: nomeMarca,
 					categoria: categoriaTexto,
-					linklocal:`https://modamasculina.blendibox.com.br/${nomeMarca}/${p.slug}?${nomeMarca}`,
+					linklocal:`https://modamasculina.blendibox.com.br/${nomeMarca}/${p.slug}`,
 					descricao: `Procurando onde comprar ${isGalvic ? p['g:title'] : p?.text?.name || ''}? Acesse, Compare Ofertas, encontre Cupons para ${isGalvic ? p['g:title'] : p?.text?.name || ''} de forma dinâmica. Milhares de Ofertas e Cupons de desconto de grandes Marcas.`
 				  };
 
